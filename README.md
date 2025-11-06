@@ -10,7 +10,7 @@ Neste desafio foram explorados conhecimentos em:
 * Uso de System.out.print e System.out.println para saída de dados.
 * Tratamento de exceções com a classe criada ParametrosInvalidosException 
 
-# Este código foi criado e versionado respectivamente com: 
+*Este código foi criado e versionado respectivamente com:*
 * IDE Intellij
 * GIT
 
@@ -28,7 +28,7 @@ In this challenge, the following concepts were explored:
 * Usage of System.out.print and System.out.println for data output.
 * Exception handling with the custom class ParametrosInvalidosException.
 
-# This code was created and versioned using:
+*This code was created and versioned using:*
 * IntelliJ IDE
 * GIT
 
