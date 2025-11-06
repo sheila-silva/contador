@@ -58,8 +58,3 @@ In this challenge, the following concepts were explored:
 * **Git**
 
 *******
-
-* GIT
-
-
-
